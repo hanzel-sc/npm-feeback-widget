@@ -1,0 +1,25 @@
+{
+  "name": "@hanzel_sc/bloop",
+  "version": "1.0.0",
+  "description": "A simple feedback prompt",
+  "keywords": [
+    "feedback",
+    "widget",
+    "bloop"
+  ],
+  "homepage": "https://github.com/hanzel-sc/npm-feeback-widget#readme",
+  "bugs": {
+    "url": "https://github.com/hanzel-sc/npm-feeback-widget/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzel-sc/npm-feeback-widget.git"
+  },
+  "license": "ISC",
+  "author": "Hanzel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
